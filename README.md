@@ -9,8 +9,9 @@ Este es mi primer programa hecho en python. Este programa también tiene una ver
 ![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
 
 ![imagen_2025-06-07_221450377](https://github.com/user-attachments/assets/4882edc2-51e0-4c42-8f6d-e11e58811e6e)
-![Captura2](https://github.com/user-attachments/assets/86bfb0d7-d896-4015-b53d-7b2ad97caa8e)
-![Captura54](https://github.com/user-attachments/assets/e3c199c8-7dfb-4686-beb1-2359be872827)
+
+![Ejemplo de Proceso realizado con exito](https://github.com/user-attachments/assets/f927ecdd-c889-441e-a941-aa11df83ac3e)
+
 
 
 ## ¿Qué hace BWM? (Funcionalidades Principales)
