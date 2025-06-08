@@ -98,6 +98,8 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 
 -----
 
+# ENG
+
 # Bulk Watermark Maker: Simple Image Watermarking Tool 📸
 
 Welcome to BWM in console\! 🎉 This is a small, easy-to-use application that allows you to add text watermarks to your images. It's perfect for protecting your photos, adding your name, or your website's URL quickly and easily. ✨
