@@ -96,11 +96,9 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 
 ¡Espero que BWM te sea de gran utilidad! ╰(*°▽°*)╯
 
-ENG
-
-¡Absolutamente\! Aquí tienes tu `README.md` completo, con todas las secciones, la información de los formatos, y los emoticonos, pero totalmente en inglés.
-
 -----
+
+# ENG
 
 # Bulk Watermark Maker: Simple Image Watermarking Tool 📸
 
@@ -200,5 +198,5 @@ Despite its broad compatibility, Pillow has some limitations:
 4.  **Some very specific or proprietary formats:** While it covers most, there may always be very niche or proprietary image formats not implemented in Pillow.
 5.  **Non-image files:** If you place a text file (`.txt`), a Word document (`.docx`), an executable (`.exe`), or any other non-image file in the input folder, Pillow will attempt to open it, fail, and the script will report it as an "unprocessed file" or "image with error." This is expected, as they are not valid images.
 
-We hope BWM proves very useful to you\! ╰(*°▽°*)╯
+I hope BWM proves very useful to you\! ╰(*°▽°*)╯
 
