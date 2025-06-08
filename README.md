@@ -12,6 +12,7 @@ Este es mi primer programa hecho en python. Este programa también tiene una ver
 
 ![Ejemplo de Proceso realizado con exito](https://github.com/user-attachments/assets/f927ecdd-c889-441e-a941-aa11df83ac3e)
 
+![20220605_201843 (1)](https://github.com/user-attachments/assets/7408c52a-fcdd-4e73-9c6a-fd51533f65f5)
 
 
 ## ¿Qué hace BWM? (Funcionalidades Principales)
