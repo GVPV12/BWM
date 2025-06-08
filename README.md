@@ -4,7 +4,9 @@
 
 Link de descarga: https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe
 
-Este es mi primer programa hecho en Python. Este programa también tiene una versión con GUI
+Este es mi primer programa hecho en Python. 
+
+Este programa también tiene una versión con GUI: [https://github.com/GVPV12/BWM-GUI](https://github.com/GVPV12/BWM-GUI)
 
 ![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
 
@@ -106,7 +108,9 @@ Welcome to BWM in console\! 🎉 This is a small, easy-to-use application that a
 
 Download link: [https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe](https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe)
 
-This is my first program made in Python. This program also has a GUI version.
+This is my first program made in Python. 
+
+This program also has a version with GUI: [https://github.com/GVPV12/BWM-GUI](https://github.com/GVPV12/BWM-GUI)
 
 ![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
 
