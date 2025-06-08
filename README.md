@@ -94,5 +94,111 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 4. **Algunos formatos muy específicos o propietarios:** Aunque cubre la mayoría, siempre puede haber formatos de imagen muy de nicho o propietarios que no estén implementados en Pillow.
 5. **Archivos que no son imágenes:** Si pones un archivo de texto (`.txt`), un documento de Word (`.docx`), un ejecutable (`.exe`), o cualquier otro archivo que no sea una imagen en la carpeta de entrada, Pillow intentará abrirlo, fallará, y el script lo reportará como un "archivo no procesado como imagen" o "imagen con error". Esto es lo esperado, ya que no son imágenes válidas.
 
-¡Espero que BWMconsola te sea de gran utilidad! ╰(*°▽°*)╯
+¡Espero que BWM te sea de gran utilidad! ╰(*°▽°*)╯
+
+ENG
+
+¡Absolutamente\! Aquí tienes tu `README.md` completo, con todas las secciones, la información de los formatos, y los emoticonos, pero totalmente en inglés.
+
+-----
+
+# Bulk Watermark Maker: Simple Image Watermarking Tool 📸
+
+Welcome to BWM in console\! 🎉 This is a small, easy-to-use application that allows you to add text watermarks to your images. It's perfect for protecting your photos, adding your name, or your website's URL quickly and easily. ✨
+
+Download link: [https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe](https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe)
+
+This is my first program made in Python. This program also has a GUI version.
+
+![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
+
+![imagen_2025-06-07_221450377](https://github.com/user-attachments/assets/4882edc2-51e0-4c42-8f6d-e11e58811e6e)
+
+## Example of a Successfully Completed Process
+![Ejemplo de Proceso realizado con exito](https://github.com/user-attachments/assets/f927ecdd-c889-441e-a941-aa11df83ac3e)
+
+## Output
+![20220605_201843 (1)](https://github.com/user-attachments/assets/7408c52a-fcdd-4e73-9c6a-fd51533f65f5) 
+ 
+
+## What Does BWM Do? (Core Features)
+
+1.  **Adds Text Watermarks:** You can place any text you want as a watermark on your images. ✍️
+2.  **Customize Your Watermark:**
+      * **Color and Transparency:** Choose the text color and how transparent you want it to be. 🌈
+      * **Text Stroke:** You can add an outline around the text to make it appear sharper. 🛡️
+      * **Size:** Adjust the font size to fit your images perfectly. 📏
+3.  **Flexible Watermark Positioning:**
+      * You can place the watermark in the **four corners** (top/bottom, left/right). ↖️↗️↙️↘️
+      * Place it in the **exact center** of the image. 🎯
+      * Slightly offset the center (further left, right, up, or down) if needed. ➕➖
+      * Or let the application choose a **random position** for you\! 🎲
+4.  **Process Multiple Images at Once:** Simply place all your images in an input folder, and the application will watermark them all. 📁➡️🏞️
+5.  **Save and Manage Your Watermarks:** Once you create a watermark, you can save it for future use. You can also edit or delete watermarks you no longer need. 💾📝🗑️
+6.  **Configurable Folders:** Easily choose where your input images are located and where you want to save the watermarked images (by default, it uses "input\_images" and "output\_images" in the same folder as the program). 📂➡️🗂️
+7.  **Image Format Support:** Works with common image formats like **JPG, JPEG, and PNG**. All processed images will be saved in **JPG** format. 🖼️
+8.  **Clear Startup:** When you open the application, you'll see a "Loading..." message with a small animation so you know the program is working and hasn't frozen. It will take about 8 to 10 seconds to load after opening the console. ⏳✨
+
+## How Does It Work? (Simple\! ✅)
+
+1.  **Organize Your Images:** Create a folder (e.g., `input_images`) and place all the photos you want to watermark inside it. 🖼️➡️📁
+2.  **Run the Program:** Just double-click the `BWMconsola.exe` file. 💻
+3.  **Follow the Menu:** The program will guide you through an interactive menu in the console window (a black text box). Simply type the number or letter of your desired option and press `Enter`. ⌨️
+4.  **Select Your Watermark:** You can either use a watermark you've already saved or create a new one on the spot. 🏷️
+5.  **Choose the Position:** Decide where you want the watermark to appear on your photos. 📍
+6.  **That's It\!** The program will process your images and save them to an output folder (by default, `output_images`). 🚀
+
+## Main Menu Options:
+
+When you start the program, you'll see these options:
+
+  * **1. Use existing watermark [Saved]:** Choose a watermark you've previously created and saved. 💾
+  * **2. Create new watermark [New]:** Type in new text for your watermark. The program will ask if you want to save it for future use. ➕
+  * **3. Edit or delete watermarks [Manage]:** Enter a sub-menu where you can view, change, or remove your saved watermarks. ✏️🗑️
+  * **4. Choose input/output folders [Folders]:** If you don't want to use the default folders, here you can specify where your images are and where you want to save them. 📂
+  * **5. Exit [X]:** Close the application. 🚪
+
+## Compatible Files
+
+The program now **theoretically supports any file type that the Pillow (PIL) library can open as an image.**
+
+### Supported Images
+
+Pillow is a very powerful library compatible with a wide range of image formats. In general, it supports the most common image formats and many others, including:
+
+  - **Popular Formats:**
+      - **JPEG / JPG** (.jpg, .jpeg, .jfif)
+      - **PNG** (.png)
+      - **BMP** (.bmp)
+      - **GIF** (.gif)
+      - **TIFF / TIF** (.tif, .tiff)
+      - **WebP** (.webp)
+  - **Other Common Formats:**
+      - **ICO** (Windows Icon)
+      - **PCX**
+      - **PPM, PGM, PBM** (Netpbm formats)
+      - **PSD** (Adobe Photoshop - limited support, may not handle all layers or advanced features)
+      - **EPS** (Encapsulated PostScript - requires Ghostscript to render)
+      - **PDF** (Pillow can read the first page of a PDF, but requires `poppler` or `Ghostscript` for more robust PDF rendering)
+      - **OpenEXR**
+      - **DDS** (DirectDraw Surface)
+      - **FLI, FLC** (Autodesk Animation)
+      - **SPIDER**
+      - **TGA** (Truevision Targa)
+      - **XBM, XPM** (X Window System bitmaps/pixmaps)
+
+### Unsupported Images
+
+Despite its broad compatibility, Pillow has some limitations:
+
+1.  **Camera RAW formats:** Pillow does not directly support camera RAW formats (such as .CR2, .NEF, .ARW, etc.). For these, you would need to use specialized libraries like `rawpy` or `imageio` (which may use Pillow's backend or others) or convert them to a supported format first.
+2.  **Pure vector formats:** Pillow is a *raster image* processing library (pixel-based). It does not support pure vector formats such as:
+      - **SVG** (Scalable Vector Graphics): For SVGs, you would need an SVG rendering engine (like `cairosvg` or `svglib` with `reportlab`) to rasterize the SVG into an image before Pillow can process it.
+      - **AI** (Adobe Illustrator): Similar to SVG, these are vector formats.
+      - **CDR** (CorelDRAW): Also vector.
+3.  **Corrupt or non-standard files:** If a file is corrupt or does not strictly follow an image format specification, Pillow may fail to open it, resulting in an error.
+4.  **Some very specific or proprietary formats:** While it covers most, there may always be very niche or proprietary image formats not implemented in Pillow.
+5.  **Non-image files:** If you place a text file (`.txt`), a Word document (`.docx`), an executable (`.exe`), or any other non-image file in the input folder, Pillow will attempt to open it, fail, and the script will report it as an "unprocessed file" or "image with error." This is expected, as they are not valid images.
+
+We hope BWM proves very useful to you\! ╰(*°▽°*)╯
 
