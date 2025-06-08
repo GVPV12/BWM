@@ -4,15 +4,17 @@
 
 Link de descarga: https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe
 
-Este es mi primer programa hecho en python. Este programa también tiene una versión con GUI
+Este es mi primer programa hecho en Python. Este programa también tiene una versión con GUI
 
 ![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
 
 ![imagen_2025-06-07_221450377](https://github.com/user-attachments/assets/4882edc2-51e0-4c42-8f6d-e11e58811e6e)
 
+## Ejemplo de Proceso realizado con éxito
 ![Ejemplo de Proceso realizado con exito](https://github.com/user-attachments/assets/f927ecdd-c889-441e-a941-aa11df83ac3e)
 
-![20220605_201843 (1)](https://github.com/user-attachments/assets/7408c52a-fcdd-4e73-9c6a-fd51533f65f5)
+## Output
+![20220605_201843 (1)](https://github.com/user-attachments/assets/7408c52a-fcdd-4e73-9c6a-fd51533f65f5) 
 
 
 ## ¿Qué hace BWM? (Funcionalidades Principales)
