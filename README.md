@@ -19,11 +19,11 @@ Este es mi primer programa hecho en Python. Este programa también tiene una ver
 
 ## ¿Qué hace BWM? (Funcionalidades Principales)
 
-1.  **Añade Marcas de Agua de Texto:** Puedes poner cualquier texto que desees como marca de agua en tus imágenes. ✍️
-2.  **Personaliza tu Marca de Agua:**
-    * **Color y Transparencia:** Elige el color del texto y qué tan transparente quieres que sea. 🌈
-    * **Borde del Texto:** Puedes añadir un borde alrededor del texto para que se vea más nítido. 🛡️
-    * **Tamaño:** Ajusta el tamaño de la fuente para que se adapte perfectamente a tus imágenes. 📏
+1.  **Añade Marcas de Agua de Texto:** Puedes poner cualquier texto que desees como marca de agua en tus imágenes (la fuente, el color y el tamaño no se pueden cambiar, en el programa con versión GUI se puede cambiar el tamaño). ✍️
+2.  **Edita o elimina tus Marca de Agua:**
+    * **Guarda:** Escribe el texto que quieras como Watermark. 🌈
+    * **Edita:** Puedes editarlo luego de guardarlo. 🛡️
+    * **Elimina:** Elimina y gestiona todas las marcas de agua que has guardado a tu preferencia. 📏
 3.  **Posición Flexible de la Marca de Agua:**
     * Puedes colocar la marca de agua en las **cuatro esquinas** (arriba/abajo, izquierda/derecha). ↖️↗️↙️↘️
     * Colocarla en el **centro exacto** de la imagen. 🎯
@@ -98,7 +98,11 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 
 -----
 
-# ENG
+Parece que has realizado algunas modificaciones en la sección de "Funcionalidades Principales" y en el nombre de la aplicación en el título y el primer párrafo ("BWM" en lugar de "BWMconsola"). También has aclarado que la fuente, el color y el tamaño no se pueden cambiar en esta versión de consola, y has añadido un tiempo de carga específico. ¡Muy bien\!
+
+Aquí tienes la versión en inglés con todos esos cambios incorporados:
+
+-----
 
 # Bulk Watermark Maker: Simple Image Watermarking Tool 📸
 
@@ -112,20 +116,20 @@ This is my first program made in Python. This program also has a GUI version.
 
 ![imagen_2025-06-07_221450377](https://github.com/user-attachments/assets/4882edc2-51e0-4c42-8f6d-e11e58811e6e)
 
-## Example of a Successfully Completed Process
+## Example of successful output
 ![Ejemplo de Proceso realizado con exito](https://github.com/user-attachments/assets/f927ecdd-c889-441e-a941-aa11df83ac3e)
 
 ## Output
 ![20220605_201843 (1)](https://github.com/user-attachments/assets/7408c52a-fcdd-4e73-9c6a-fd51533f65f5) 
- 
+
 
 ## What Does BWM Do? (Core Features)
 
-1.  **Adds Text Watermarks:** You can place any text you want as a watermark on your images. ✍️
-2.  **Customize Your Watermark:**
-      * **Color and Transparency:** Choose the text color and how transparent you want it to be. 🌈
-      * **Text Stroke:** You can add an outline around the text to make it appear sharper. 🛡️
-      * **Size:** Adjust the font size to fit your images perfectly. 📏
+1.  **Adds Text Watermarks:** You can place any text you want as a watermark on your images (the font, color, and size cannot be changed; in the GUI version, the size can be changed). ✍️
+2.  **Edit or Delete Your Watermark:**
+      * **Save:** Type the text you want as a Watermark. 🌈
+      * **Edit:** You can edit it after saving. 🛡️
+      * **Delete:** Delete and manage all the watermarks you have saved to your preference. 📏
 3.  **Flexible Watermark Positioning:**
       * You can place the watermark in the **four corners** (top/bottom, left/right). ↖️↗️↙️↘️
       * Place it in the **exact center** of the image. 🎯
@@ -133,14 +137,14 @@ This is my first program made in Python. This program also has a GUI version.
       * Or let the application choose a **random position** for you\! 🎲
 4.  **Process Multiple Images at Once:** Simply place all your images in an input folder, and the application will watermark them all. 📁➡️🏞️
 5.  **Save and Manage Your Watermarks:** Once you create a watermark, you can save it for future use. You can also edit or delete watermarks you no longer need. 💾📝🗑️
-6.  **Configurable Folders:** Easily choose where your input images are located and where you want to save the watermarked images (by default, it uses "input\_images" and "output\_images" in the same folder as the program). 📂➡️🗂️
-7.  **Image Format Support:** Works with common image formats like **JPG, JPEG, and PNG**. All processed images will be saved in **JPG** format. 🖼️
+6.  **Configurable Folders:** You can easily choose where your input images are located and where you want to save the watermarked images (by default, it uses "input\_images" and "output\_images" in the same folder as the program). 📂➡️🗂️
+7.  **Image Format Support:** It works with common image formats like **JPG, JPEG, and PNG**. All processed images will be saved in **JPG** format. 🖼️
 8.  **Clear Startup:** When you open the application, you'll see a "Loading..." message with a small animation so you know the program is working and hasn't frozen. It will take about 8 to 10 seconds to load after opening the console. ⏳✨
 
 ## How Does It Work? (Simple\! ✅)
 
 1.  **Organize Your Images:** Create a folder (e.g., `input_images`) and place all the photos you want to watermark inside it. 🖼️➡️📁
-2.  **Run the Program:** Just double-click the `BWMconsola.exe` file. 💻
+2.  **Run the Program:** Simply double-click the `BWMconsola.exe` file. 💻
 3.  **Follow the Menu:** The program will guide you through an interactive menu in the console window (a black text box). Simply type the number or letter of your desired option and press `Enter`. ⌨️
 4.  **Select Your Watermark:** You can either use a watermark you've already saved or create a new one on the spot. 🏷️
 5.  **Choose the Position:** Decide where you want the watermark to appear on your photos. 📍
@@ -198,5 +202,4 @@ Despite its broad compatibility, Pillow has some limitations:
 4.  **Some very specific or proprietary formats:** While it covers most, there may always be very niche or proprietary image formats not implemented in Pillow.
 5.  **Non-image files:** If you place a text file (`.txt`), a Word document (`.docx`), an executable (`.exe`), or any other non-image file in the input folder, Pillow will attempt to open it, fail, and the script will report it as an "unprocessed file" or "image with error." This is expected, as they are not valid images.
 
-I hope BWM proves very useful to you\! ╰(*°▽°*)╯
-
+I hope BWM is useful to you\! ╰(*°▽°*)╯
