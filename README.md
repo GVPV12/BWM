@@ -2,6 +2,8 @@
 
 ¡Bienvenido a BWM en consola! 🎉 Esta es una pequeña y fácil de usar aplicación que te permite añadir marcas de agua de texto a tus imágenes. Es perfecta para proteger tus fotos, añadir tu nombre o la URL de tu sitio web de forma rápida y sencilla. ✨
 
+Link de descarga: https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe
+
 Este es mi primer programa hecho en python. Este programa también tiene una versión con GUI
 
 ## ¿Qué hace BWM? (Funcionalidades Principales)
