@@ -21,9 +21,9 @@ Este es mi primer programa hecho en Python. Este programa también tiene una ver
 
 1.  **Añade Marcas de Agua de Texto:** Puedes poner cualquier texto que desees como marca de agua en tus imágenes (la fuente, el color y el tamaño no se pueden cambiar, en el programa con versión GUI se puede cambiar el tamaño). ✍️
 2.  **Edita o elimina tus Marca de Agua:**
-    * **Guarda:** Escribe el texto que quieras como Watermark. 🌈
-    * **Edita:** Puedes editarlo luego de guardarlo. 🛡️
-    * **Elimina:** Elimina y gestiona todas las marcas de agua que has guardado a tu preferencia. 📏
+    * **Guarda:** Escribe el texto que quieras como Watermark. 
+    * **Edita:** Puedes editarlo luego de guardarlo. 
+    * **Elimina:** Elimina y gestiona todas las marcas de agua que has guardado a tu preferencia. 
 3.  **Posición Flexible de la Marca de Agua:**
     * Puedes colocar la marca de agua en las **cuatro esquinas** (arriba/abajo, izquierda/derecha). ↖️↗️↙️↘️
     * Colocarla en el **centro exacto** de la imagen. 🎯
@@ -98,12 +98,6 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 
 -----
 
-Parece que has realizado algunas modificaciones en la sección de "Funcionalidades Principales" y en el nombre de la aplicación en el título y el primer párrafo ("BWM" en lugar de "BWMconsola"). También has aclarado que la fuente, el color y el tamaño no se pueden cambiar en esta versión de consola, y has añadido un tiempo de carga específico. ¡Muy bien\!
-
-Aquí tienes la versión en inglés con todos esos cambios incorporados:
-
------
-
 # Bulk Watermark Maker: Simple Image Watermarking Tool 📸
 
 Welcome to BWM in console\! 🎉 This is a small, easy-to-use application that allows you to add text watermarks to your images. It's perfect for protecting your photos, adding your name, or your website's URL quickly and easily. ✨
@@ -127,9 +121,9 @@ This is my first program made in Python. This program also has a GUI version.
 
 1.  **Adds Text Watermarks:** You can place any text you want as a watermark on your images (the font, color, and size cannot be changed; in the GUI version, the size can be changed). ✍️
 2.  **Edit or Delete Your Watermark:**
-      * **Save:** Type the text you want as a Watermark. 🌈
-      * **Edit:** You can edit it after saving. 🛡️
-      * **Delete:** Delete and manage all the watermarks you have saved to your preference. 📏
+      * **Save:** Type the text you want as a Watermark. 
+      * **Edit:** You can edit it after saving. 
+      * **Delete:** Delete and manage all the watermarks you have saved to your preference. 
 3.  **Flexible Watermark Positioning:**
       * You can place the watermark in the **four corners** (top/bottom, left/right). ↖️↗️↙️↘️
       * Place it in the **exact center** of the image. 🎯
