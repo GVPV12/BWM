@@ -6,6 +6,13 @@ Link de descarga: https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsol
 
 Este es mi primer programa hecho en python. Este programa también tiene una versión con GUI
 
+![Captura2](https://github.com/user-attachments/assets/8a32f74f-de64-49d8-b505-3983f52b41e0)
+
+![imagen_2025-06-07_221450377](https://github.com/user-attachments/assets/4882edc2-51e0-4c42-8f6d-e11e58811e6e)
+![Captura2](https://github.com/user-attachments/assets/86bfb0d7-d896-4015-b53d-7b2ad97caa8e)
+![Captura54](https://github.com/user-attachments/assets/e3c199c8-7dfb-4686-beb1-2359be872827)
+
+
 ## ¿Qué hace BWM? (Funcionalidades Principales)
 
 1.  **Añade Marcas de Agua de Texto:** Puedes poner cualquier texto que desees como marca de agua en tus imágenes. ✍️
@@ -22,7 +29,7 @@ Este es mi primer programa hecho en python. Este programa también tiene una ver
 5.  **Guarda y Gestiona tus Marcas de Agua:** Una vez que creas una marca de agua, puedes guardarla para usarla una y otra vez. También puedes editar o borrar las marcas de agua que ya no necesites. 💾📝🗑️
 6.  **Carpetas Configurables:** Puedes elegir fácilmente dónde están tus imágenes de entrada y dónde quieres que se guarden las imágenes con marca de agua (por defecto, usa "input\_images" y "output\_images" en la misma carpeta del programa). 📂➡️🗂️
 7.  **Soporte de Formatos de Imagen:** Funciona con los formatos de imagen más comunes, como **JPG, JPEG y PNG**. Todas las imágenes procesadas se guardarán en formato **JPG**. 🖼️
-8.  **Inicio Claro:** Al abrir la aplicación, verás un mensaje de "Cargando..." con una pequeña animación para que sepas que el programa está trabajando y no se ha congelado. ⏳✨
+8.  **Inicio Claro:** Al abrir la aplicación, verás un mensaje de "Cargando..." con una pequeña animación para que sepas que el programa está trabajando y no se ha congelado. Se tardará unos 8 a 10 segundos en cargar luego de abrir la consola. ⏳✨
 
 ## ¿Cómo funciona? (¡Sencillo! ✅)
 
@@ -83,5 +90,5 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 4. **Algunos formatos muy específicos o propietarios:** Aunque cubre la mayoría, siempre puede haber formatos de imagen muy de nicho o propietarios que no estén implementados en Pillow.
 5. **Archivos que no son imágenes:** Si pones un archivo de texto (`.txt`), un documento de Word (`.docx`), un ejecutable (`.exe`), o cualquier otro archivo que no sea una imagen en la carpeta de entrada, Pillow intentará abrirlo, fallará, y el script lo reportará como un "archivo no procesado como imagen" o "imagen con error". Esto es lo esperado, ya que no son imágenes válidas.
 
-¡Espero que BWMconsola te sea de gran utilidad! 😊
----
+¡Espero que BWMconsola te sea de gran utilidad! ╰(*°▽°*)╯
+
