@@ -39,7 +39,7 @@ Este programa también tiene una versión con GUI: [https://github.com/GVPV12/BW
 
 ## ¿Cómo funciona? (¡Sencillo! ✅)
 
-1.  **Organiza tus Imágenes:** Crea una carpeta (por ejemplo, `input_images`) y coloca allí todas las fotos a las que quieras añadir una marca de agua. 🖼️➡️📁
+1.  **Organiza tus Imágenes:** En la carpeta donde esta el programa (`input_images`) coloca allí todas las fotos a las que quieras añadir una marca de agua. También puedes cambiar donde quieres que este esta carpeta (Descargas, documentos, etc) 🖼️➡️📁
 2.  **Ejecuta el Programa:** Simplemente haz doble clic en el archivo `BWMconsola.exe`. 💻
 3.  **Sigue el Menú:** El programa te guiará con un menú interactivo en la ventana de la consola (un cuadro de texto negro). Simplemente escribe el número o la letra de la opción que quieras y presiona `Enter`. ⌨️
 4.  **Selecciona tu Marca de Agua:** Puedes usar una marca de agua que ya hayas guardado o crear una nueva al momento. 🏷️
@@ -143,7 +143,7 @@ This program also has a version with GUI: [https://github.com/GVPV12/BWM-GUI](ht
 
 ## How Does It Work? (Simple\! ✅)
 
-1.  **Organize Your Images:** Create a folder (e.g., `input_images`) and place all the photos you want to watermark inside it. 🖼️➡️📁
+1. ** Organize your images: ** In the folder where the program is located, you will see a folder (`input_images`) put all the photos you want to add a watermark. You can also change where you want this folder (downloads, documents, etc.) 🖼️➡️📁
 2.  **Run the Program:** Simply double-click the `BWMconsola.exe` file. 💻
 3.  **Follow the Menu:** The program will guide you through an interactive menu in the console window (a black text box). Simply type the number or letter of your desired option and press `Enter`. ⌨️
 4.  **Select Your Watermark:** You can either use a watermark you've already saved or create a new one on the spot. 🏷️
