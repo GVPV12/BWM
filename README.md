@@ -1,6 +1,6 @@
-# Bulk Watermark Maker: Herramienta Sencilla para Marcas de Agua en Imágenes 📸
+Herramienta Sencilla para Marcas de Agua en Imágenes 
 
-¡Bienvenido a BWM en consola! 🎉 Esta es una pequeña y fácil de usar aplicación que te permite añadir marcas de agua de texto a tus imágenes. Es perfecta para proteger tus fotos, añadir tu nombre o la URL de tu sitio web de forma rápida y sencilla. ✨
+Esta es una pequeña y fácil de usar aplicación que te permite añadir marcas de agua de texto a tus imágenes. Es perfecta para proteger tus fotos, añadir tu nombre o la URL de tu sitio web de forma rápida y sencilla. 
 
 Link de descarga: https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe
 
@@ -102,9 +102,9 @@ A pesar de su amplia compatibilidad, Pillow tiene algunas limitaciones:
 
 # ENG
 
-# Bulk Watermark Maker: Simple Image Watermarking Tool 📸
+# Bulk Watermark Maker: Simple Image Watermarking Tool 
 
-Welcome to BWM in console\! 🎉 This is a small, easy-to-use application that allows you to add text watermarks to your images. It's perfect for protecting your photos, adding your name, or your website's URL quickly and easily. ✨
+This is a small, easy-to-use application that allows you to add text watermarks to your images. It's perfect for protecting your photos, adding your name, or your website's URL quickly and easily. ✨
 
 Download link: [https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe](https://github.com/GVPV12/BWM/releases/download/v1.0/BWMconsola.exe)
 
